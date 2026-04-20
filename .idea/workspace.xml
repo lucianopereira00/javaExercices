@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ffb537d-7e50-483c-9e6f-503165620eb8" name="Changes" comment="Exercicios" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucianopereira00&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lucianopereira00/javaExercices.git&quot;,
+    &quot;accountId&quot;: &quot;d069a238-cbad-4368-8d84-2447df98e3b4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3CPBfP4IZ0apNj9mXbSerVaRfgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalcularArea.executor": "Run",
+    "Application.CampeonatoFutebol.executor": "Run",
+    "Application.Contas.executor": "Run",
+    "Application.ListaProdutos.executor": "Run",
+    "Application.Loja.executor": "Run",
+    "Application.TestarAnimais.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Luciano/OneDrive/ALURA-JAVA/listaObjetosDistintos.forEachIstanceof",
+    "onboarding.tips.debug.path": "C:/Users/Luciano/OneDrive/ALURA-JAVA/listaObjetosDistintos.forEachIstanceof/untitled/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ffb537d-7e50-483c-9e6f-503165620eb8" name="Changes" comment="" />
+      <created>1776277426275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776277426275</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Resolução exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776361796376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776361796376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Resolução exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776361818970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776361818970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resolução de exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776717879626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717879626</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Resolução de exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776717885653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717885653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Resolução de exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776717890721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717890721</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Resolução de exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776717900226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717900226</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Resolução de exercicios #1">
+      <option name="closed" value="true" />
+      <created>1776717913620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717913620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1776717988054</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776717988054</updated>
+    </task>
+    <task id="LOCAL-00009" summary="'">
+      <option name="closed" value="true" />
+      <created>1776718028264</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776718028264</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercicios">
+      <option name="closed" value="true" />
+      <created>1776718037379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776718037379</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolução de exercicios #1" />
+    <MESSAGE value="'" />
+    <MESSAGE value="Exercicios" />
+    <MESSAGE value="Resolução exercicios #1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+  </component>
+</project>
