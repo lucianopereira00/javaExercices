@@ -75,7 +75,7 @@ public class CampeonatoFutebol {
             }
         }
 
-        System.out.println("====REBAIXADOS PARA A SEGUNDA DIVISÃO====");
+        System.out.println("====REBAIXADOS PARA A SEGUNDA DIVISÃO DO CAMPEONATO====");
         int posicaoSegunda = 1;
         for(Classificacao time :tabela){
             if(posicaoSegunda > tabela.size()-3){
